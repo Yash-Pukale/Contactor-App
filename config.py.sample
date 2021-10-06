@@ -1,0 +1,6 @@
+SECRET_KEY = 'YNi2fDZ6H9T2ERKS6sxWkvtdanJQZ1_Y8YURMdsjJRLdnd8RadfelJbkS1B04awhaTib2xXRD9LTkUKAY2FP2Q'
+
+MONGODB_SETTINGS = {
+    'db': 'contactor',
+    'host': 'mongodb://admin:Idk6fa@localhost:27017/contactor?authSource=admin'
+}
